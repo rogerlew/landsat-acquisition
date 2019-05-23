@@ -1,0 +1,5 @@
+Fiona==1.8.6
+GDAL==2.4.1
+numpy==1.16.2+mkl
+lsru==0.5.2
+pyproj==2.1.3
